@@ -75,3 +75,8 @@ body {
   line-height: 19px;
   letter-spacing: -0.5px;
 }
+
+.meme--image {
+  max-width: 100%;
+  padding: 20px;
+}
